@@ -1,0 +1,30 @@
+    div
+    {
+      
+      border-bottom: 0.5px solid white;
+      border-right:0.5px solid white;
+      box-shadow: 10px 5px 5px grey;"
+    }
+    
+    th
+    {
+      background-color: black;
+      color: white;
+    }
+    .t1
+    {
+      border-top: 2px solid black;
+      border-left: 2px solid black;
+    }
+    #a1
+    {
+      
+      border-left: 3px solid black;
+    }
+    h1
+    {
+      font-family: 'Great Vibes', cursive;
+      font-size:30px;
+  
+    
+    
